@@ -58,3 +58,8 @@ This contain data related to customer subscription including subscription plans,
  7. Canceled: The subscription status
  8. Revenue: The revenue for the subscription 
  9. Subscriptions duration: The period the subscriptions last for
+
+### Data source
+The data sources for this analysis are '' sales data .csv'' and '' customers data .csv'', which can be gotten from online source like kaggle
+
+### Tools used 
