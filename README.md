@@ -16,7 +16,7 @@
 
 [Data cleaning and preparation](#Data-cleaning-and-preparation)
 
-[Explanatory of data analysis](#Explabatory-of-data-analysis)
+[Explanatory data analysis](#Explabatory-data-analysis)
 
 [Sales data](#Sales-data)
 
@@ -89,3 +89,7 @@ data loading and inspection
 handling of missing variables 
 
 data cleaning and formatting 
+
+### Exploratory data analysis 
+---
+### For sales data
