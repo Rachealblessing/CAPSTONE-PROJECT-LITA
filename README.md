@@ -38,3 +38,5 @@ This project focuses on analyzing sales data to uncover trends,product performan
 ### Project overview for customer data
 This contain data related to customer subscription including subscription plans, user demographics and retention metrics. The goal is to analyze trends in subscription usage and identify factors affecting customer retention 
 
+### Description of columns for sales data
+
