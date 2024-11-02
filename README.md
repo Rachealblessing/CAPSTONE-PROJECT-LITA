@@ -30,3 +30,10 @@
 [Sales data](#Sales-data)
 
 [Customer data](#Customer-data)
+
+### project overview for sales data
+This project focuses on analyzing sales data to uncover trends,product performances and customer insights. it involves data collection, cleaning and analyzing using tools like excel,SQL and power BI. The goal is to provide actionable recommendations to enhance sake strategies and improve overall performance 
+
+### project overview for customer data
+This contain data related to customer subscription including subscription plans, user demographics and retention metrics. The goal is to analyze trends in subscription usage and identify factors affecting customer retention 
+
