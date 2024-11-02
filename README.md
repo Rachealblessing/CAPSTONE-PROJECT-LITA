@@ -63,3 +63,13 @@ This contain data related to customer subscription including subscription plans,
 The data sources for this analysis are '' sales data .csv'' and '' customers data .csv'', which can be gotten from online source like kaggle
 
 ### Tools used 
+.Microsoft excel
+for data cleaning 
+for data analysis 
+for data visualization 
+.SQL- structured query language 
+for querying data
+.PowerBI 
+for data visualization 
+.Github 
+for portfolio building 
