@@ -67,8 +67,10 @@ The data sources for this analysis are '' sales data .csv'' and '' customers dat
 for data cleaning 
 for data analysis 
 for data visualization 
+
 .SQL- structured query language 
 for querying data
+
 .PowerBI 
 for data visualization 
 .Github 
