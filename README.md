@@ -75,3 +75,9 @@ for querying data
 for data visualization 
 .Github 
 for portfolio building 
+
+### Data cleaning and preparation 
+---
+data loading and inspection 
+handling of missing variables 
+data cleaning and formatting 
