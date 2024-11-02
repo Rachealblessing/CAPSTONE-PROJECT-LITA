@@ -33,12 +33,15 @@
 [Customer data](#Customer-data)
 
 ### Project overview for sales data
+---
 This project focuses on analyzing sales data to uncover trends,product performances and customer insights. it involves data collection, cleaning and analyzing using tools like excel,SQL and power BI. The goal is to provide actionable recommendations to enhance sake strategies and improve overall performance 
 
 ### Project overview for customer data
+---
 This contain data related to customer subscription including subscription plans, user demographics and retention metrics. The goal is to analyze trends in subscription usage and identify factors affecting customer retention 
 
 ### Description of columns for sales data
+---
  1. OrderID: Unique order identifier
  2. CustomerID: Unique customer identifier 
  3. Product: product purchase by customer 
@@ -49,6 +52,7 @@ This contain data related to customer subscription including subscription plans,
  8. Total sales:Total value ( unit price * quantity )
 
 ### Description of coumns for customer data
+---
  1. CustomerID: unique customer identifier
  2. Customer name: The namd of the customer that purchased product 
  3. Region: customer location 
@@ -60,9 +64,11 @@ This contain data related to customer subscription including subscription plans,
  9. Subscriptions duration: The period the subscriptions last for
 
 ### Data source
+---
 The data sources for this analysis are '' sales data .csv'' and '' customers data .csv'', which can be gotten from online source like kaggle
 
 ### Tools used 
+---
 .Microsoft excel
 for data cleaning 
 for data analysis 
@@ -79,5 +85,7 @@ for portfolio building
 ### Data cleaning and preparation 
 ---
 data loading and inspection 
+
 handling of missing variables 
+
 data cleaning and formatting 
