@@ -39,4 +39,22 @@ This project focuses on analyzing sales data to uncover trends,product performan
 This contain data related to customer subscription including subscription plans, user demographics and retention metrics. The goal is to analyze trends in subscription usage and identify factors affecting customer retention 
 
 ### Description of columns for sales data
+ 1. OrderID: Unique order identifier
+ 2. CustomerID: Unique customer identifier 
+ 3. Product: product purchase by customer 
+ 4. Region: Order location
+ 5. Orderdate: Date of the order
+ 6. Quantity: Units purchased 
+ 7. Unit price: price per unit
+ 8. Total sales:Total value ( unit price * quantity )
 
+### Description of coumns for customer data
+ 1. CustomerID: unique customer identifier
+ 2. Customer name: The namd of the customer that purchased product 
+ 3. Region: customer location 
+ 4. SubscriptionType: The type of subscription made by customer 
+ 5. SubscriptionStart: The start date of the subscription 
+ 6. SubscriptionEnd: The ebd date of the subscription 
+ 7. Canceled: The subscription status
+ 8. Revenue: The revenue for the subscription 
+ 9. Subscriptions duration: The period the subscriptions last for
