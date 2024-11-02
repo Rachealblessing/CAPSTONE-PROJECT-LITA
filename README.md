@@ -110,3 +110,6 @@ data cleaning and formatting
 6. calculate total revenue by subscription type
 7. find the top 3 region by subscription cancellation 
 8. find the total number of active and cancelled subscriptions 
+
+### Data Analysis 
+---
