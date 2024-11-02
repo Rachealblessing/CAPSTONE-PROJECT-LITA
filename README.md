@@ -6,9 +6,9 @@
 
 [project overview for customer data](#project-overview-for-customer-data)
 
-[Description of column for sales data](#Description-of-column-for-sales-data)
+[Data field for sales data](#Data-field-for-sales-data)
 
-[Description of column for customers data](#Description-of-column-for-customers-data)
+[Data field for customers data](#Data-field-for-customers-data)
 
 [Data source](#Data-source)
 
@@ -40,7 +40,7 @@ This project focuses on analyzing sales data to uncover trends,product performan
 ---
 This contain data related to customer subscription including subscription plans, user demographics and retention metrics. The goal is to analyze trends in subscription usage and identify factors affecting customer retention 
 
-### Description of columns for sales data
+### Data field for sales data
 ---
  1. OrderID: Unique order identifier
  2. CustomerID: Unique customer identifier 
@@ -51,7 +51,7 @@ This contain data related to customer subscription including subscription plans,
  7. Unit price: price per unit
  8. Total sales:Total value ( unit price * quantity )
 
-### Description of coumns for customer data
+### Data field for customer data
 ---
  1. CustomerID: unique customer identifier
  2. Customer name: The namd of the customer that purchased product 
