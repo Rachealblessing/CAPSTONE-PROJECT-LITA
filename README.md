@@ -116,34 +116,159 @@ data cleaning and formatting
 
 ### for sales data
 
-- Total sales by product category : Retrieve the total sales for each product category 
+- Total sales by product category : Retrieve the total sales for each product category
+
+  ```sql
+  select product,
+  sum(quantity*unitprice)as totalsales
+  from table
+  group by product
+  order by totalsales
+  ```
 
 - Sales transactions by region: find the number of sales transactions in each region
 
+  ```sql
+  select region, count(orderid) as transaction_count
+  from table
+  group by region
+  order by transaction_count desc
+  ```
+
 - highest selling product: find the highest selling product by sales value
+
+  ```sql
+  select top 1 product,
+  sum(quantity*unitprice) as totalsales
+  from table
+  group by product
+  ```
+  
 
 - Total revenue per product: Calculate total revenue per product
 
+  ```sql
+  select orderid,sum(quantity*unitprice) as totalrevenue
+  from table
+  group by orderid
+  order by totalrevenue desc
+  ```
+
 - Top 5 customer by purchase Amount: find the 5 top customer by total purchase amount
 
+  ```sql
+  select top 5 customerid '
+  sum(quantity*unitprice) as totalpurchaseamount
+  from table
+  group by customerid
+  order by totalpurchaseamount
+  ```
+  
 - sales contribution by region:Calculate the percentage of total sales contributed by each region
 
-- Products with no sales in last quarter: identify products with no sales in the last quarter 
+  ```sql
+  select region,
+  sum(quantity*unitprice) as totalsales,
+  sum(quantity*unitprice)*100.0/(select
+  sum(quantity*unitprice)
+  from table as percentageoftotalsales
+  from table
+  group by region
+  order by percentageoftotalsales
+  ```
+  
+- Products with no sales in last quarter: identify products with no sales in the last quarter
+
+  ```sql
+  select distinct product
+  from table
+  where product not in(
+  select product
+  from table
+  where orderdate>=
+  dateadd(quarter,-1,getdate()) and
+   orderdate<getdatw())
+  ```
 
 ### for customer data
 
-- Total customer by region: retrieve the total number of customer from each region 
+- Total customer by region: retrieve the total number of customer from each region
 
-- Most popular subscription type: find the most popular subscription type by the number of customers 
+  ```sql
+  select region,count(customerid) as totalcustomers
+  from table
+  group by region
+  order by totalcustomers asc
+  ```
+  
+- Most popular subscription type: find the most popular subscription type by the number of customers
+
+  ```sql
+  select top 1 subscriptiontype,
+  count(customerid) as totalcustomer
+  from tsble
+  group by subscriptiontype
+  order by totalcustomers desc
+  ```
 
 - Customer who canceled within 6 months: find the customer who canceled their subscription within 6 month
 
-- Average subscription duration: calculate the average subscription duration for all customers 
+  ```sql
+  update table
+  set canceled = 1
+  where cancelled = true
+  update table
+  set canceled = 0
+  where canceled = false
+  select count(customerid) as canceledcustomerin6mnth
+  from table
+  where cancelled = 1
+  and
+  subscriptionend>=dateadd(month,-6,getdate())
+  ```
 
+- Average subscription duration: calculate the average subscription duration for all customers
+
+  ```sql
+  select avg(datediff(day,subscriptionstart,subscriptionend))
+  as avg_sub_duration
+  from table
+  ```
+  
 - Customer with subscription longer than 12 months: find customer with subscription longer than 12 months
 
+  ```sql
+  select count(customerid) as
+  sub_12_mnth
+  from table
+  where
+  subscriptionstart<=dateadd(monyh,-12,getdate())
+  ```
+  
 - Total revenue by subscription type: calculate total revenue by subscription type
+
+  ```sql
+  select subscriptiontype,
+  sum(revenue) as totalrevenue
+  from table
+  group by subscriptiontype
+  ```
 
 - Top 3 region by subscription cancellation: find the top 3 region by subscription cancellation
 
-- Total active and cancelled subscription: find the total number of active and cancelled subscription 
+  ```sql
+  select top 3 region,
+  count(Customerid) as cancellation_count_top3
+  from table
+  where cancelled = 1
+  group by region
+  ```
+
+- Total active and cancelled subscription: find the total number of active and cancelled subscription
+
+  ```sql
+  select
+  sum(case when canceled = 1 then 1 else 0 end) as totalcanceled'
+  sum(case when canceled = 0 then 1 else 0 end) as totalactive
+  from table
+  ```
