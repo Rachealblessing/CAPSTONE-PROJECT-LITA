@@ -268,7 +268,7 @@ data cleaning and formatting
 
   ```sql
   select
-  sum(case when canceled = 1 then 1 else 0 end) as totalcanceled'
+  sum(case when canceled = 1 then 1 else 0 end) as totalcanceled,
   sum(case when canceled = 0 then 1 else 0 end) as totalactive
   from table
   ```
