@@ -157,7 +157,7 @@ data cleaning and formatting
 - Top 5 customer by purchase Amount: find the 5 top customer by total purchase amount
 
   ```sql
-  select top 5 customerid '
+  select top 5 customerid,
   sum(quantity*unitprice) as totalpurchaseamount
   from table
   group by customerid
