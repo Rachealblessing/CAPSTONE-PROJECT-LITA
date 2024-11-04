@@ -118,32 +118,32 @@ data cleaning and formatting
 
 - Total sales by product category : Retrieve the total sales for each product category 
 
-Sales transactions by region: find the number of sales transactions in each region
+- Sales transactions by region: find the number of sales transactions in each region
 
-highest selling product: find the highest selling product by sales value
+- highest selling product: find the highest selling product by sales value
 
-Total revenue per product: Calculate total revenue per product
+- Total revenue per product: Calculate total revenue per product
 
-Top 5 customer by purchase Amount: find the 5 top customer by total purchase amount
+- Top 5 customer by purchase Amount: find the 5 top customer by total purchase amount
 
-sales contribution by region:Calculate the percentage of total sales contributed by each region
+- sales contribution by region:Calculate the percentage of total sales contributed by each region
 
-Products with no sales in last quarter: identify products with no sales in the last quarter 
+- Products with no sales in last quarter: identify products with no sales in the last quarter 
 
 ### for customer data
 
-Total customer by region: retrieve the total number of customer from each region 
+- Total customer by region: retrieve the total number of customer from each region 
 
-Most popular subscription type: find the most popular subscription type by the number of customers 
+- Most popular subscription type: find the most popular subscription type by the number of customers 
 
-Customer who canceled within 6 months: find the customer who canceled their subscription within 6 month
+- Customer who canceled within 6 months: find the customer who canceled their subscription within 6 month
 
-Average subscription duration: calculate the average subscription duration for all customers 
+- Average subscription duration: calculate the average subscription duration for all customers 
 
-Customer with subscription longer than 12 months: find customer with subscription longer than 12 months
+- Customer with subscription longer than 12 months: find customer with subscription longer than 12 months
 
-Total revenue by subscription type: calculate total revenue by subscription type
+- Total revenue by subscription type: calculate total revenue by subscription type
 
-Top 3 region by subscription cancellation: find the top 3 region by subscription cancellation
+- Top 3 region by subscription cancellation: find the top 3 region by subscription cancellation
 
-Total active and cancelled subscription: find the total number of active and cancelled subscription 
+- Total active and cancelled subscription: find the total number of active and cancelled subscription 
