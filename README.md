@@ -116,7 +116,7 @@ data cleaning and formatting
 
 ### for sales data
 
--Total sales by product category : Retrieve the total sales for each product category 
+- Total sales by product category : Retrieve the total sales for each product category 
 
 Sales transactions by region: find the number of sales transactions in each region
 
