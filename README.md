@@ -228,6 +228,10 @@ create table
 
 ### for customer data
 
+create table
+![sql table](https://github.com/user-attachments/assets/b89ad94b-d8cd-4bbb-8670-1db1b42315e5)
+
+
 - Total customer by region: retrieve the total number of customer from each region
 
   ```sql
