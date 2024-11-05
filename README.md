@@ -272,3 +272,15 @@ data cleaning and formatting
   sum(case when canceled = 0 then 1 else 0 end) as totalactive
   from table
   ```
+
+  DATA VISUALIZATION
+  ![CUSTOMER DATA VISUALIZATION](https://github.com/user-attachments/assets/7dc0b5c6-ba23-4665-98cc-7300ae582d19)
+
+![CUSTOMER DATA VISUALLLL](https://github.com/user-attachments/assets/cfde7bf4-d102-480f-85de-f27760e3091d)
+
+![SALES DATA VISUAL YY](https://github.com/user-attachments/assets/ce5ad5c9-7f94-4278-a395-926f6740044d)
+
+![MAP SALES DATA](https://github.com/user-attachments/assets/054046e9-e0e2-45e1-b54e-2ab3787bffb2)
+
+
+
