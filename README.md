@@ -112,7 +112,7 @@ data cleaning and formatting
 
 ### Exploratory data analysis 
 ---
-### For sales data
+### sales data
 1. retrieve the total sales for each product category 
 2. find the number of sales transactions in each region
 3. find the highest selling product by total sales value
@@ -121,7 +121,7 @@ data cleaning and formatting
 6. calculate the percentage of total sales contributed by each region
 7. identify product with no sales in the last quarter 
 
-### For customer data
+### customer data
 1. retrieve the total number of customer from each region
 2. find the most popular subscription type by the number of customers
 3. find the customer who cancelled their subscription within 6 month
