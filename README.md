@@ -276,11 +276,15 @@ data cleaning and formatting
 ### DATA VISUALIZATION
 ---
 Data visualization of customer 
+![NEW CUSTOMER](https://github.com/user-attachments/assets/0b2fa15e-a9f5-4cae-a02c-39bc1ea2f722)
+
 
 map visualization of customer data
 ![CUSTOMER DATA VISUALLLL](https://github.com/user-attachments/assets/cfde7bf4-d102-480f-85de-f27760e3091d)
 
 Data visualization of sales data
+![NEW SALES](https://github.com/user-attachments/assets/2ea28b6d-c324-442f-bd47-f1571719c913)
+
 
 map visualization of sales data
 ![MAP SALES DATA](https://github.com/user-attachments/assets/054046e9-e0e2-45e1-b54e-2ab3787bffb2)
