@@ -129,12 +129,20 @@ data cleaning and formatting
 5. find customer with subscription longer than 12 month
 6. calculate total revenue by subscription type
 7. find the top 3 region by subscription cancellation 
-8. find the total number of active and cancelled subscriptions 
+8. find the total number of active and cancelled subscriptions
+
+pivot table
+![pivottttt](https://github.com/user-attachments/assets/ef8f1188-36e5-439b-af92-e3d5cfb3cf26)
+
 
 ### Data Analysis 
 ---
 
 ### for sales data
+
+create table
+![sql 1](https://github.com/user-attachments/assets/2cd53e9d-1de7-4c9c-a2df-9cc9086bc1d7)
+
 
 - Total sales by product category : Retrieve the total sales for each product category
 
@@ -145,6 +153,10 @@ data cleaning and formatting
   group by product
   order by totalsales
   ```
+  ![sql 2](https://github.com/user-attachments/assets/a08327c5-cb8f-4d17-8827-79e6fe312f91)
+
+
+
 
 - Sales transactions by region: find the number of sales transactions in each region
 
@@ -183,6 +195,8 @@ data cleaning and formatting
   group by customerid
   order by totalpurchaseamount
   ```
+  ![sql 3](https://github.com/user-attachments/assets/1fcf1068-05cc-413c-8198-6870f7de90b4)
+
   
 - sales contribution by region:Calculate the percentage of total sales contributed by each region
 
@@ -207,8 +221,10 @@ data cleaning and formatting
   from table
   where orderdate>=
   dateadd(quarter,-1,getdate()) and
-   orderdate<getdatw())
+   orderdate<getdate())
   ```
+  ![sql 4](https://github.com/user-attachments/assets/dc5a566c-d344-44c3-bd38-c03c7a07b2f2)
+
 
 ### for customer data
 
@@ -220,6 +236,8 @@ data cleaning and formatting
   group by region
   order by totalcustomers asc
   ```
+  ![sql iii](https://github.com/user-attachments/assets/0e2c96b4-7ff3-40ac-8bf6-78759382267f)
+
   
 - Most popular subscription type: find the most popular subscription type by the number of customers
 
@@ -273,6 +291,8 @@ data cleaning and formatting
   from table
   group by subscriptiontype
   ```
+  ![sql ii](https://github.com/user-attachments/assets/e976b779-c1f9-45fe-b42d-21dd38efe40b)
+
 
 - Top 3 region by subscription cancellation: find the top 3 region by subscription cancellation
 
