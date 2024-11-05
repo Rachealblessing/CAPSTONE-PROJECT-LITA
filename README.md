@@ -284,7 +284,8 @@ map visualization of customer data
 ![CUSTOMER DATA VISUALLLL](https://github.com/user-attachments/assets/cfde7bf4-d102-480f-85de-f27760e3091d)
 
 Data visualization of sales data
-![NEW SALES](https://github.com/user-attachments/assets/2ea28b6d-c324-442f-bd47-f1571719c913)
+![sales data 2222](https://github.com/user-attachments/assets/fd967c31-cc16-4c55-a31c-269fb2cb2b7a)
+
 
 
 map visualization of sales data
