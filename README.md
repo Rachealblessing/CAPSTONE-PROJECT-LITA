@@ -67,7 +67,7 @@ This contain data related to customer subscription including subscription plans,
 ---
 Total sales: 2 million
 
-Total number of transactions: 9921
+Total number of transactions: 9,921
 
 Number of product: 6
 
@@ -75,11 +75,11 @@ Number of product: 6
 ---
 Sum of revenue: 68 million 
 
-Number of renewed subscription: 18612
+Number of renewed subscription: 18,612
 
-Number of cancelled subscription: 15175
+Number of cancelled subscription: 15,175
 
-Total number of customers: 33787
+Total number of customers: 33,787
 
 Number of subscription type: 3
 
