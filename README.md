@@ -66,15 +66,21 @@ This contain data related to customer subscription including subscription plans,
 ### Basic Statistics of Sales data
 ---
 Total sales: 2 million
+
 Total number of transactions: 9921
+
 Number of product: 6
 
 ### Basic Statistics of Customer data
 ---
 Sum of revenue: 68 million 
+
 Number of renewed subscription: 18612
+
 Number of cancelled subscription: 15175
+
 Total number of customers: 33787
+
 Number of subscription type: 3
 
 ### Data source
