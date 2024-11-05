@@ -26,11 +26,11 @@
 
 [Data Visualization](#Data-Visualization)
 
-[My Result](#My-result)
+[My Results](#My-results)
 
-[Sales data](#Sales-data)
+[for Sales data](#for-Sales-data)
 
-[Customer data](#Customer-data)
+[for Customer data](#for-Customer-data)
 
 ### Project overview for sales data
 ---
