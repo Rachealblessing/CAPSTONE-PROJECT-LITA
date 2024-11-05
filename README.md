@@ -58,7 +58,7 @@ This contain data related to customer subscription including subscription plans,
  3. Region: customer location 
  4. SubscriptionType: The type of subscription made by customer 
  5. SubscriptionStart: The start date of the subscription 
- 6. SubscriptionEnd: The ebd date of the subscription 
+ 6. SubscriptionEnd: The end date of the subscription 
  7. Canceled: The subscription status
  8. Revenue: The revenue for the subscription 
  9. Subscriptions duration: The period the subscriptions last for
@@ -273,13 +273,18 @@ data cleaning and formatting
   from table
   ```
 
-  DATA VISUALIZATION
+### DATA VISUALIZATION
+---
+Data visualization of customer data
   ![CUSTOMER DATA VISUALIZATION](https://github.com/user-attachments/assets/7dc0b5c6-ba23-4665-98cc-7300ae582d19)
 
+map visualization of customer sales
 ![CUSTOMER DATA VISUALLLL](https://github.com/user-attachments/assets/cfde7bf4-d102-480f-85de-f27760e3091d)
 
+Data visualization of sales data
 ![SALES DATA VISUAL YY](https://github.com/user-attachments/assets/ce5ad5c9-7f94-4278-a395-926f6740044d)
 
+map visualization of sales data
 ![MAP SALES DATA](https://github.com/user-attachments/assets/054046e9-e0e2-45e1-b54e-2ab3787bffb2)
 
 
