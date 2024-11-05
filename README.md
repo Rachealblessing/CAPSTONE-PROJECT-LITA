@@ -131,7 +131,9 @@ data cleaning and formatting
 7. find the top 3 region by subscription cancellation 
 8. find the total number of active and cancelled subscriptions
 
-pivot table
+### pivot table
+pivot table is use to summarize,analyze and present latge set of data quickly and efficiently
+
 ![pivottttt](https://github.com/user-attachments/assets/ef8f1188-36e5-439b-af92-e3d5cfb3cf26)
 
 
