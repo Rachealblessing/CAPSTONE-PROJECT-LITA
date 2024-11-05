@@ -275,7 +275,7 @@ data cleaning and formatting
 
 ### DATA VISUALIZATION
 ---
-Data visualization of customer 
+Data visualization of customer data
 ![new 2 visualization cust](https://github.com/user-attachments/assets/767e654d-a258-422d-8276-3a95465e1c51)
 
 
