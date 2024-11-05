@@ -278,7 +278,7 @@ data cleaning and formatting
 Data visualization of customer data
   ![CUSTOMER DATA VISUALIZATION](https://github.com/user-attachments/assets/7dc0b5c6-ba23-4665-98cc-7300ae582d19)
 
-map visualization of customer sales
+map visualization of customer data
 ![CUSTOMER DATA VISUALLLL](https://github.com/user-attachments/assets/cfde7bf4-d102-480f-85de-f27760e3091d)
 
 Data visualization of sales data
