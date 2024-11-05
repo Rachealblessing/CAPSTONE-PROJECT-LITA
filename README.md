@@ -352,3 +352,6 @@ map visualization of sales data
 The sales data analysis highlights key insights :total sales for gloves were 296,900.00, hats at 316,295.00,jackets at 208,230.00,shirt at 485,600.00, and sock at 180,785.00. Shoes led with impressive sales of 613,380.00, indicating a strong demand.
 Regionally, the east achieved 485,925.00,the north 387,000.00, and west 300,345.00,but the south stood out with 927,820.00 in sales, making it a vital market.
 Focusing on shoe products and tailoring strategies for the south could enhance overall sales and growth 
+
+### for customer data
+The subscription analysis shows a total of 33,787 subscription with the basic plan being the most favored at 16,921 subscriptions. Renewals totaled 18,612, with basic plan having a high renewal rate of 70% while both premium and standard plans lagged behind at 40%.Cancellations reached 15,715, with the basic plan seeing 29.9% cancellations compared to the mych higher rates for premium and standard plans, which were around 59%. This indicates that while the badic plan is well-received, there are significant concerns regarding the value of the premium and standard options,suggesting a need for improvement in those areas.
