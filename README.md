@@ -22,15 +22,21 @@
 
 [Customer data](#Customer-data)
 
+[pivot table](#pivot table)
+
 [Data Analysis](#Data-Analysis)
+
+[for sales data](for-sales-data)
+
+[for customer data](#for customer data)
 
 [Data Visualization](#Data-Visualization)
 
 [My Results](#My-results)
 
-[for Sales data](#for-Sales-data)
+[for Sales data 2](#for-Sales-data-2)
 
-[for Customer data](#for-Customer-data)
+[for Customer data 2](#for-Customer-data-2)
 
 ### Project overview for sales data
 ---
