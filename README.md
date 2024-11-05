@@ -316,6 +316,8 @@ create table
   sum(case when canceled = 0 then 1 else 0 end) as totalactive
   from table
   ```
+  ![lastt](https://github.com/user-attachments/assets/533c4197-3bf6-4b64-ba36-9b8f7f50db16)
+
 
 ### DATA VISUALIZATION
 ---
