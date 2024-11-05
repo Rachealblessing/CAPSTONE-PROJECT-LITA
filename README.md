@@ -132,9 +132,9 @@ data cleaning and formatting
 8. find the total number of active and cancelled subscriptions
 
 ### pivot table
-pivot table is use to summarize,analyze and present latge set of data quickly and efficiently
+pivot table is use to summarize,analyze and present large set of data quickly and efficiently
 
--summary of my customer data with pivot table
+- summary of my customer data with pivot table
 
 ![pivottttt](https://github.com/user-attachments/assets/ef8f1188-36e5-439b-af92-e3d5cfb3cf26)
 
