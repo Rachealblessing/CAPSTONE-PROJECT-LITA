@@ -380,4 +380,9 @@ This indicates that while the Basic plan is well-received, there are significant
 
 ### Recommendations 
 ### for sales data 3
+Recommendation for high performing products, since shoe are the best selling product, consider expanding the shoe line with new styles or promotions to capitalize on this demand. highlighting shoes in marketing campaigns can attract more customers. target the south region,with the south showing the highest sales,tailor marketing strategies specifically for this region.consider localized promotions, partnerships with local influencers, or events to engage customer more effectively.Ensure that inventory levels for shoes and popular items in the south are optimized to meet demand. This could involve increasing stock levels or introducing exclusive items for this market.
+
+for the low performing products create targeted promotions or discounts for thse products to increase visibility and attract customers,consider bundling them with popular items to encourage sales. showcase these items prominently in-store or online to draw attention to them,highlight their unique features or benefit to entice customer to make a purchase.
+engage with customers through social media or email marketing to educate them about the benefit of these products. consider introducing new design or variations of these products to generate renewed interest, customer feedback can provide valuable insights for product improvements.
+
 ### for customer data 3
