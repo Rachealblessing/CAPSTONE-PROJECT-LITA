@@ -38,6 +38,12 @@
 
 [for Customer data 2](#for-Customer-data-2)
 
+[Recommendations](#Recommendations)
+
+[for sales data 3](#for-sales-data-3)
+
+[for customer data 3](#for-customer-data-3)
+
 ### Project overview for sales data
 ---
 This project focuses on analyzing sales data to uncover trends,product performances and customer insights. it involves data collection, cleaning and analyzing using tools like excel,SQL and power BI. The goal is to provide actionable recommendations to enhance sales strategies and improve overall performance 
@@ -365,3 +371,7 @@ Focusing on shoe products and tailoring strategies for the south could enhance o
 The subscription analysis shows a total of 33,787 subscription with the basic plan being the most favored at 16,921 subscriptions. Renewals totaled 18,612, with basic plan having a high renewal rate of 70% while both premium and standard plans lagged behind at 40%.Cancellations reached 15,715, with the basic plan seeing 29.9% cancellations compared to the mych higher rates for premium and standard plans, which were around 59%. 
 
 This indicates that while the Basic plan is well-received, there are significant concerns regarding the value of the premium and standard options,suggesting a need for improvement in those areas.
+
+### Recommendations 
+### for sales data 3
+### for customer data 3
