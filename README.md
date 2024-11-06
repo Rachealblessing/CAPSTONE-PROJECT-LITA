@@ -102,16 +102,22 @@ The data sources for this analysis are '' sales data .csv'' and '' customers dat
 ### Tools used 
 ---
 - Microsoft excel
+
 for data cleaning 
+
 for data analysis 
+
 for data visualization 
 
 - SQL- structured query language 
+
 for querying data
 
 - PowerBI 
+
 for data visualization 
 - Github 
+
 for portfolio building 
 
 ### Data cleaning and preparation 
