@@ -386,7 +386,10 @@ for the low performing products create targeted promotions or discounts for thse
 engage with customers through social media or email marketing to educate them about the benefit of these products. consider introducing new design or variations of these products to generate renewed interest, customer feedback can provide valuable insights for product improvements.
 
 ### for customer data 3
-- Improve premium and standard plans with better features and support, conduct survey to gather feedback from cancelled subscriptions.
-- Offer promotional discounts to attract new subscribers,clearly communicate the benefits of premium and standard plans.
-- introduce a loyalty program fir long term subscribers , probide free trail periods for premium and standard plans.
+- Improve premium and standard plans with better features and support
+- conduct survey to gather feedback from cancelled subscriptions.
+- Offer promotional discounts to attract new subscribers
+- clearly communicate the benefits of premium and standard plans.
+- introduce a loyalty program fir long term subscribers 
+- provide free trial periods for premium and standard plans.
 - Continuously monitor trends and adjust strategies accordingly 
