@@ -379,6 +379,7 @@ The subscription analysis shows a total of 33,787 subscription with the basic pl
 This indicates that while the Basic plan is well-received, there are significant concerns regarding the value of the premium and standard options,suggesting a need for improvement in those areas.
 
 ### Recommendations 
+---
 ### for sales data 3
 Recommendation for high performing products, since shoe are the best selling product, consider expanding the shoe line with new styles or promotions to capitalize on this demand. highlighting shoes in marketing campaigns can attract more customers. target the south region,with the south showing the highest sales,tailor marketing strategies specifically for this region.consider localized promotions, partnerships with local influencers, or events to engage customer more effectively.Ensure that inventory levels for shoes and popular items in the south are optimized to meet demand. This could involve increasing stock levels or introducing exclusive items for this market.
 
