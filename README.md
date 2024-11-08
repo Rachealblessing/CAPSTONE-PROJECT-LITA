@@ -390,6 +390,6 @@ engage with customers through social media or email marketing to educate them ab
 - conduct survey to gather feedback from cancelled subscriptions.
 - Offer promotional discounts to attract new subscribers
 - clearly communicate the benefits of premium and standard plans.
-- introduce a loyalty program fir long term subscribers 
+- introduce a loyalty program for long term subscribers 
 - provide free trial periods for premium and standard plans.
 - Continuously monitor trends and adjust strategies accordingly 
