@@ -24,6 +24,8 @@
 
 [pivot table](#pivot-table)
 
+[Data visualization ](#data-visualization)
+
 [Data Analysis](#Data-Analysis)
 
 [for sales data](for-sales-data)
