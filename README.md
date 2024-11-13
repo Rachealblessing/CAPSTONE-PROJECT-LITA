@@ -164,6 +164,10 @@ pivot table is use to summarize,analyze and present large set of data quickly an
 
 ### Data visualization 
 pivot table dashboard 
+sales data
+![sales dashboard](https://github.com/user-attachments/assets/10a5f90a-9b41-4253-80f0-667f931b934e)
+customer data
+![customer dashboard](https://github.com/user-attachments/assets/548307a1-3f0d-4b4f-993e-86e54cb89ddc)
 
 ### Data Analysis 
 ---
