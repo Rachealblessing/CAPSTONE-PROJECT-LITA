@@ -162,7 +162,8 @@ pivot table is use to summarize,analyze and present large set of data quickly an
 
 ![pivot 22](https://github.com/user-attachments/assets/d59c4a1c-0765-4298-bacc-d64ca9f982f5)
 
-
+### Data visualization 
+pivot table dashboard 
 
 ### Data Analysis 
 ---
