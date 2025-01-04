@@ -2,6 +2,10 @@
 
 ### project title: Sales Transaction Data and Customer Subscription Data
 ---
+
+Table of contents 
+---
+
 [project overview for sales data](#project-overview-for-sales-data)
 
 [project overview for customer data](#project-overview-for-customer-data)
